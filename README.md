@@ -25,6 +25,5 @@ This project demonstrates a complete Exploratory Data Analysis (EDA) workflow us
 2.project2.ipynb
 3.Cleaned_EDA-Dataset.xlsx
 
-
 ## Conclusion
 The dataset was successfully cleaned and analyzed to identify trends, patterns, and relationships. The insights obtained can support further analytics and machine learning tasks.
