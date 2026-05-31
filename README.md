@@ -42,3 +42,8 @@ The objective of this project is to analyze the dataset to extract meaningful in
 - EDA_Project.ipynb
 - Dataset.xlsx
 - README.md
+
+  ## 📊 Project Preview
+If GitHub fails to render the Jupyter Notebook file, you can view the complete project with all outputs and visualizations intact via **nbviewer**:
+
+👉 [Click here to view the Interactive EDA Notebook](https://nbviewer.org/github/nagapuriakhila424-tech/Exploratory-Data-Analysis-Project/blob/main/EDA_project.ipynb#)
