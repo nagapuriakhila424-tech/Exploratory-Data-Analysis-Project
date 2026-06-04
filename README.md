@@ -7,9 +7,9 @@ To analyze and explore the dataset using statistical methods and visualizations 
 This project focuses on Exploratory Data Analysis (EDA) using Python. The dataset is analyzed using statistical summaries and visual techniques to understand data distribution, detect patterns, and uncover meaningful insights. Various plots and correlation analysis are used to interpret the data effectively.
 
 ## 📂 Dataset
-Source: Dataset for Data Analytics.csv
-Type: Structured CSV file
-Format: Tabular data
+- Source: Dataset for Data Analytics.csv
+- Type: Structured CSV file
+- Format: Tabular data
 
 ## 🛠 Tools Used
 - Python
