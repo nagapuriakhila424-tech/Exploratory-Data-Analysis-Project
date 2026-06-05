@@ -50,9 +50,9 @@ The dataset was successfully explored and meaningful insights were extracted usi
 - README.md
 
 ## 📊 Project Preview
-If GitHub fails to render the Jupyter Notebook file, you can view the complete project with all outputs and visualizations intact via **nbviewer**:
+The complete Exploratory Data Analysis project, including statistical summaries, data visualizations, correlation analysis, trend identification, and key insights, can be viewed directly in the Jupyter Notebook available in this repository.
 
-👉 [Click here to view the Interactive EDA Notebook](https://nbviewer.org/github/nagapuriakhila424-tech/Exploratory-Data-Analysis-Project/blob/main/EDA_project.ipynb#)
+👉 Open **EDA_Project.ipynb** to explore the complete analysis and findings.
 
 ## 📊 Project Overview & Workflow
 **Data Loading & Inspection**: Dataset is loaded and structure is examined.
